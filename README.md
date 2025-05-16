@@ -12,5 +12,9 @@
 - Django
 - HTML/CSS
 - JavaScript
+- Power Apps
+- Power Automate
+- Power BI
+- Sharepoint
 
 Feel free to connect with me or check out my repositories!
